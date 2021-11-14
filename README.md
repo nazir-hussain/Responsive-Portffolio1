@@ -1,4 +1,4 @@
-# Responsive-Portffolio1![Screenshot (89)](https://user-images.githubusercontent.com/56648155/141693131-97e12b41-0123-49c6-b5a1-f6d51d650659.png)
+# Responsive-Portffolio1![Screenshot (89)]
 A developer would spend an hour adjusting the padding and margin of a single button. But wouldn’t spare 15 minutes for the project description Readme file.
 
 
@@ -15,14 +15,14 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 ![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
 
 #### Skills Tab
-![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
+![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png) -->
 
-#### Project Tab
-![Project Tab](https://i.imgur.com/u4oyV6r.png)
+#### Preview Tab
+![Preview Tab](https://user-images.githubusercontent.com/56648155/141693131-97e12b41-0123-49c6-b5a1-f6d51d650659.png)
 
-#### Contact Tab
-![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png) -->
-
+<!-- #### Contact Tab
+![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png) 
+ -->
 ### Demo
 <!-- For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd -->
 
