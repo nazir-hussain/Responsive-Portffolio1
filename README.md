@@ -1,4 +1,4 @@
-# Responsive-Portffolio1![Screenshot (89)]
+# Responsive-Portffolio1!
 A developer would spend an hour adjusting the padding and margin of a single button. But wouldn’t spare 15 minutes for the project description Readme file.
 
 
@@ -22,10 +22,10 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 
 <!-- #### Contact Tab
 ![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png) 
- -->
-### Demo
-<!-- For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd -->
 
+### Demo
+For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
+ -->
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
 - For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
@@ -36,10 +36,9 @@ If you are reading this then I will assume that you know something about code an
 ### Contributing
 Any and all contributions, issues, features and tips are welcome.
 
-### License
-<!-- **Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) -->
+<!-- ### License
+**Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) -->
 
 ### Contact
 
-<!-- For any Suggestion / Ideas ping me at [@prateekis1](https://twitter.com/prateekis1)
- -->
+For any Suggestion / Ideas ping me at [@Nazir Hussain](https://www.instagram.com/nazir__hassan/)
