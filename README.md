@@ -40,7 +40,7 @@ If you are reading this then I will assume that you know something about code an
 Any and all contributions, issues, features and tips are welcome.
 
 ### License
-**Portfolio-Template** is licence under [MIT v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+**Portfolio-Template** is licence under [MIT v3.0 license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### Contact
 
