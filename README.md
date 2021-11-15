@@ -26,9 +26,9 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 #### Contact Tab
 ![Contact Tab](https://user-images.githubusercontent.com/56648155/141724866-c73f5e64-93c6-425d-8916-bef08292fa5c.png) 
 
-<!-- ### Demo
-For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
- -->
+### Demo
+For Demo of this template you can visit https://nazir-hussain.github.io/Responsive-Portffolio1/
+
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
 - For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
@@ -39,8 +39,8 @@ If you are reading this then I will assume that you know something about code an
 ### Contributing
 Any and all contributions, issues, features and tips are welcome.
 
-<!-- ### License
-**Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) -->
+### License
+**Portfolio-Template** is licence under [MIT v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### Contact
 
