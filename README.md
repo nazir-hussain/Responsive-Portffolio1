@@ -9,21 +9,24 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 1. Setup is very easy and you get a portfolio template of your own for free.
 2. To add your details, you just need simple editing skills. No code changes required!
 3. Simple and Fast website User Interface.
-<!-- 
+
 ### Website UI Gallary
-#### About Tab
-![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
-
-#### Skills Tab
-![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png) -->
-
 #### Preview Tab
 ![Preview Tab](https://user-images.githubusercontent.com/56648155/141693131-97e12b41-0123-49c6-b5a1-f6d51d650659.png)
 
-<!-- #### Contact Tab
-![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png) 
+#### About Tab
+![About Tab](https://user-images.githubusercontent.com/56648155/141724871-0d356210-31b0-4056-bec9-5c6e5c5298fc.png)
 
-### Demo
+#### Skills Tab
+![Skills Tab](https://user-images.githubusercontent.com/56648155/141724868-1e65caa5-53dd-408f-b384-5984b6011de2.png)
+
+#### Service Tab
+![Service](https://user-images.githubusercontent.com/56648155/141724869-fcc37896-7f62-4fcd-9d90-7ed1ddd9f57b.png)
+
+#### Contact Tab
+![Contact Tab](https://user-images.githubusercontent.com/56648155/141724866-c73f5e64-93c6-425d-8916-bef08292fa5c.png) 
+
+<!-- ### Demo
 For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
  -->
 ### Quick Start
