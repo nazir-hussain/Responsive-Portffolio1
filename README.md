@@ -7,8 +7,9 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 
 ### Highlights
 1. Setup is very easy and you get a portfolio template of your own for free.
-2. To add your details, you just need simple editing skills. No code changes required!
-3. Simple and Fast website User Interface.
+2. With color theme.
+3. To add your details, you just need simple editing skills. No code changes required!
+4. Simple and Fast website User Interface.
 
 ### Website UI Gallary
 #### Preview Tab
