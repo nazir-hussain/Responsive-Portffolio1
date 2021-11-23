@@ -11,7 +11,7 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 3. With color theme which is the best color for a background.
 4. To add your details, you just need simple editing skills. No code changes required!
 5. Simple and Fast website User Interface.
-6. And Enjoy
+6. And Enjoy!!!
 
 ### Website UI Gallary
 #### Preview Tab
