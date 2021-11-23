@@ -16,8 +16,6 @@ A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers 
 ### Website UI Gallary
 “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”
 
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
-
 #### Preview Tab
 ![Preview Tab](https://user-images.githubusercontent.com/56648155/141693131-97e12b41-0123-49c6-b5a1-f6d51d650659.png)
 
